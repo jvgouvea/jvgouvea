@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="linkedin.com/in/joão-victor-gouvea-a4a555216" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-gouvea-a4a555216/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/joão-victor-gouvea-a4a555216" /></a>
 
   <a href="https://www.instagram.com/joaogouvea22" alt="Instagram">
