@@ -26,5 +26,5 @@
 </p>  
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgouvea&layout=compact&langs_count=7&theme=dracula"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgouvea&layout=compact&theme=dracula")(https://github.com/jvgouvea/github-readme-stats)"/>
 </div>
