@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Apaixonado pela área de tecnologia, sempre disposto a explorar novas ferramentas e desbravar esse imenso mundo da programação. Atualmente estou focando meus estudos no Desenvolvimento Front-end, além de estudar C e Java na faculdade.<br><br>
-  No momento curso<strong> Sistemas de Informação na UFOP</strong> e busco oportunidade para estagiar na área de tecnologia, com o intuito de mostrar meu potencial e desenvolver minhas competências.
+  Apaixonado pela área de tecnologia, sempre disposto a explorar novas ferramentas e desbravar esse imenso mundo da programação. Atualmente estou focando meus estudos no Desenvolvimento Front-end.<br><br>
+  Além disso, curso<strong> Sistemas de Informação na UFOP</strong> e busco oportunidade para estagiar na área de tecnologia, com o intuito de mostrar meu potencial e desenvolver minhas competências.
 </p>
 
 <p align="left">
