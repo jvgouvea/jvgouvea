@@ -6,11 +6,15 @@
 </p>
 
 <p align="left">
- :books: Linguagens: <strong>C, Java, HTML e CSS.</strong>
+ :computer:  Tecnologias: <strong>C e Java.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Intellij, Git e GitHub</strong>
+ :books: Estudando: <strong>HTML, CSS e JavaScript</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Intellij, Figma, Git e GitHub</strong>
 </p>
 
 <p align="left">
