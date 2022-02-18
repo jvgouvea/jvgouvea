@@ -5,17 +5,21 @@
   Além disso, curso<strong> Sistemas de Informação na UFOP</strong> e busco oportunidade para estagiar na área de tecnologia, com o intuito de mostrar meu potencial e desenvolver minhas competências.
 </p>
 
-<p align="left">
- :computer:  Tecnologias: <strong>C e Java.</strong>
-</p>
+<br>
 
 <p align="left">
- :books: Estudando: <strong>HTML, CSS e JavaScript</strong>
+ :computer:  Tecnologias: <strong>C, Java, HTML e CSS.</strong>
 </p>
 
 <p align="left">
   💼 Ferramentas: <strong>VSCode, Intellij, Figma, Git e GitHub</strong>
 </p>
+
+<p align="left">
+ :books: Estudando: <strong>JavaScript</strong>
+</p>
+
+<br>
 
 <p align="left">
   💌 Entre em contato ⤵️
@@ -28,7 +32,7 @@
   <a href="https://www.instagram.com/joaogouvea22" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/joaogouvea22/"/></a>
 </p>  
-
+<br>
 <div>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgouvea&layout=compact&theme=dracula")(https://github.com/jvgouvea/github-readme-stats)"/>
 </div>
