@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
- :computer:  Tecnologias: <strong>C, Java, HTML e CSS.</strong>
+ :computer:  Tecnologias: <strong>C, Java, HTML, CSS, JS e SASS.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Intellij, Figma, Git e GitHub</strong>
+  💼 Ferramentas: <strong>VTEX, GIT, GitHub, VSCode, Intellij e Figma</strong>
 </p>
 
 <p align="left">
