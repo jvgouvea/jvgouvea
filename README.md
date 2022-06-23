@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- :computer:  Tecnologias: <strong>C, Java, HTML, CSS, JS e SASS.</strong>
+ :computer:  Tecnologias: <strong>HTML, CSS, JS, SASS, C e Java.</strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
- :books: Estudando: <strong>JavaScript</strong>
+ :books: Estudando: <strong>React</strong>
 </p>
 
 <br>
