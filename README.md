@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- :computer:  Tecnologias: <strong>HTML, CSS, JS, SASS, C e Java.</strong>
+ :computer:  Tecnologias: <strong>HTML, CSS, JS, SASS e C.</strong>
 </p>
 
 <p align="left">
