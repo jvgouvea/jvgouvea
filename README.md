@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
- :computer:  Tecnologias: <strong>HTML, CSS, JS, SASS e C.</strong>
+ :computer:  Tecnologias: <strong>HTML, CSS, JS, React, SASS e C.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VTEX, GIT, GitHub, VSCode, Intellij e Figma</strong>
+  💼 Ferramentas: <strong>VTEX, SalesForce, GIT, GitHub, VSCode, Intellij e Figma</strong>
 </p>
 
 <p align="left">
- :books: Estudando: <strong>React</strong>
+ :books: Estudando: <strong>Redux</strong>
 </p>
 
 <br>
