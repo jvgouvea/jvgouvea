@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Apaixonado pela área de tecnologia, sempre disposto a explorar novas ferramentas e desbravar esse imenso mundo da programação. Atualmente estou cursando <strong>Análise e Desenv. de Sistemas</strong> e focando meus estudos no Desenvolvimento Front-end.<br><br>
+  Apaixonado pela área de tecnologia, sempre disposto a explorar novas ferramentas e desbravar esse imenso mundo da programação. Atualmente estou cursando <strong>Análise e Desenv. de Sistemas</strong> e atuando como Dev Front-end React<br><br>
 </p>
 
 <p align="left">
- :computer:  Tecnologias: <strong>HTML, CSS, JS, React, SASS e C.</strong>
+ :computer:  Tecnologias: <strong>JavaScript, C, React, TypeScript, Redux, SASS e Styled Components</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VTEX, SalesForce, GIT, GitHub, VSCode, Intellij e Figma</strong>
+  💼 Ferramentas: <strong>VTEX CMS, VTEX IO, SalesForce, GIT, GitHub e BitBucket</strong>
 </p>
 
 <p align="left">
- :books: Estudando: <strong>Redux</strong>
+ :books: Estudando: <strong></strong>
 </p>
 
 <br>
